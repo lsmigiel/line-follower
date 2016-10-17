@@ -1,2 +1,2 @@
 # line-follower
-Program designed to control a robot, which job was to follow the black line and transport balls
+Program designed to control a robot, whose job was to follow the black line and transport balls
