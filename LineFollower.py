@@ -1,3 +1,7 @@
+#Authors: 
+#Aleksander Piotrowski
+#Lukasz Smigielski
+
 import sys, argparse, time
 from ev3dev import *
 
